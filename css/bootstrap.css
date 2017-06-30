@@ -670,7 +670,7 @@ table th[class*="col-"]{position:static;display:table-cell;float:none;}
 }
 fieldset{min-width:0;padding:0;margin:0;border:0;}
 legend{display:block;width:100%;padding:0;margin-bottom:20px;font-size:21px;line-height:inherit;color:#333;border:0;border-bottom:1px solid #e5e5e5;}
-label{display:inline-block;margin-bottom:5px;font-weight:bold;}
+label{display:inline-block;margin-bottom:5px;font-weight:bold;color:#eee;}
 input[type="search"]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
 input[type="radio"],
 input[type="checkbox"]{margin:4px 0 0;margin-top:1px \9;line-height:normal;}
