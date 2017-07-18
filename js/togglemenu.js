@@ -1,4 +1,4 @@
-//タブレットslider
+
 $(function(){
 	$('#btn_smenu').click(function(){
 				$('#smenu').slideToggle();
