@@ -11,7 +11,8 @@
 #etalage .etalage_icon{background:url(../images/zoom.png) no-repeat rgba(184, 183, 181, 0.32);width:104px;height:104px;}
 #etalage .etalage_hint{background:url(../images/hint.gif) no-repeat;width:130px;height:57px;}
 #etalage .etalage_description{background:white;font-style:italic;margin:10px;padding:6px 10px;}
-@media (max-width:320px){#etalage .etalage_thumb_image{width:270px !important;}
+/*@media (max-width:320px){#etalage .etalage_thumb_image{width:270px!important}*/
+@media (max-width:320px){#etalage .etalage_thumb_image{width:225px!important}
 }
 .etalage, .etalage_thumb, .etalage_thumb_image, .etalage_source_image, .etalage_zoom_preview, .etalage_icon, .etalage_hint{display:none}
 .etalage, .etalage ul, .etalage li, .etalage img, .etalage_hint, .etalage_icon, .etalage_description{margin:0;padding:0;border:0;list-style:none}
